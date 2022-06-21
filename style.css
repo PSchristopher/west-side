@@ -1,0 +1,176 @@
+body{
+margin:0px;
+
+}
+.main1{
+
+    height: 66.79px;
+    display: flex;
+}
+.inner1{
+    
+    width: 50%;
+    height: 63.76px;
+    background-color: white;
+}
+
+.inner2{
+    padding-top: 20px;
+    height: 63.79px;
+    background-color: white;
+    display: flex;
+}
+.inner3{
+    font-size: small;
+    font-family:HelveticaNeue,Arial,"sans-serif";
+    padding-top: 10px;
+    height: 66.79px;
+    background-color:white;
+    padding-left: 143px;
+}
+
+.logoimg{
+    padding-left: 10px;
+    width: 170px;
+    height: 48.79px;
+
+}
+.searchbox{
+    
+    height: 33px;
+    width: 355px;
+}
+.down{
+ display: flex;
+}
+
+.content{
+    font-family: HelveticaNeue,Arial,"sans-serif"; 
+    font-size: 10px;
+    height: 100%;
+    width: 218.apx;
+    position: static;
+    top: 0px;
+}
+.wrapper img{
+    padding-top: 20px;
+    width: 100%;
+    object-fit: cover;
+    height: 870px
+}
+.down-wrapper img{
+    
+    padding-top: 30px;
+    height: 550.9px;
+    /* width: 345px; */
+   
+}
+.down-wrapper{
+    display: flex;
+}
+.down2{
+    
+    width: 100%;
+}
+.down3{
+   
+    width: 100%;
+}
+.down4{
+    
+    width: 100%;
+}
+.brands{
+
+    height: 222.5px;
+    background:white;
+}
+.title{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    text-align: center;
+    font-size: bold;
+    font-size:20px;
+    padding-top: 34px;
+}
+.brand-title img{
+    padding-top: 25px;
+    padding-left: 55px;
+    height: 110px;
+    width: 110px;
+  
+}
+.brand-title{
+    text-align: center;
+}
+.footer{
+    height: 221.75px;
+    width: 1015.35px;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    width: 100%;
+}
+.footer{
+   justify-content: space-evenly;
+    line-height: 20px;
+    font-family:  HelveticaNeue,Arial,"sans-serif";
+    font-size: Small;
+display: flex;
+}
+.footer3a{
+    list-style: none;
+}
+.footer2a{
+    list-style: none;
+}
+.footer1a{
+    list-style: none;
+}
+.footer4{
+    width: 355.11px;
+}
+.footer4a{
+    border: none;
+}
+.footer4b{
+    padding-top: 5px;
+padding-left: 80px ;
+font-size: smaller;
+
+   
+}
+.footer4c{
+    display: flex;
+    justify-content:space-evenly ;
+    padding-left: 60px;
+}
+
+.last{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    
+} 
+.last-one{
+    list-style: none;
+    display: flex;
+    padding-left: 504px;
+    
+
+}  
+.last-one img{
+    padding-left: 2px;
+    padding-top: 35px;
+    height: 18px;
+    width: 28Px;
+}
+.a{
+    font-size: 13px;
+    font-family:  HelveticaNeue,Arial,"sans-serif";
+    justify-content:start ;
+}
+.b{
+    font-size: 13px;
+    font-family:  HelveticaNeue,Arial,"sans-serif";
+    padding-bottom: 20px;
+    justify-content: end;
+}
